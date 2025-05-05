@@ -1,0 +1,10 @@
+:root {
+  --content-max-width: 90em;
+  --base-font-size: 14px;
+  --theme-color   : #8B5A2B;
+  --cover-background-color : #FFFAFA;
+}
+.language-javascript .lang-javascript .comment {
+	color: #FF0000 ;
+	font-weight:bold;
+}
